@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 18, 2023, 9:25:56 PM
+    Author     : phuoc
+*/
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("background.jpeg");
+}
+.wrapper{
+    margin-top: 100px;
+}
+.loginBlock{
+    background-color: white;
+    border-radius: 20px;
+    padding: 25px
+}
+.loginForm{
+    display: block;
+}
+.textBox{
+    border-radius: 5px
+}
+.button{
+    align-content: center;
+    background-color: #3399ff;
+    width: 100%;
+    margin: 5px 0px;
+    border-radius: 5px
+}
